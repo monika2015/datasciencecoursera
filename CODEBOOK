@@ -1,0 +1,74 @@
+Variable Information								
+Variable	Position	Label	Measurement Level	Role	Column Width	Alignment	Print Format	Write Format
+subject	1	<none>	Scale	Input	8	Right	F2	F2
+activity	2	<none>	Nominal	Input	26	Left	A54	A54
+tBodyAccmeanX	3	<none>	Scale	Input	19	Right	F17.15	F17.15
+tBodyAccmeanY	4	<none>	Nominal	Input	26	Left	A60	A60
+tBodyAccmeanZ	5	<none>	Nominal	Input	26	Left	A57	A57
+tBodyAccstdX	6	<none>	Nominal	Input	26	Left	A60	A60
+tBodyAccstdY	7	<none>	Nominal	Input	26	Left	A60	A60
+tBodyAccstdZ	8	<none>	Nominal	Input	26	Left	A60	A60
+tGravityAccmeanX	9	<none>	Scale	Input	20	Right	F18.15	F18.15
+tGravityAccmeanY	10	<none>	Nominal	Input	26	Left	A57	A57
+tGravityAccmeanZ	11	<none>	Nominal	Input	26	Left	A60	A60
+tGravityAccstdX	12	<none>	Scale	Input	20	Right	F18.15	F18.15
+tGravityAccstdY	13	<none>	Scale	Input	20	Right	F18.15	F18.15
+tGravityAccstdZ	14	<none>	Scale	Input	20	Right	F18.15	F18.15
+tBodyAccJerkmeanX	15	<none>	Nominal	Input	26	Left	A54	A54
+tBodyAccJerkmeanY	16	<none>	Nominal	Input	26	Left	A63	A63
+tBodyAccJerkmeanZ	17	<none>	Nominal	Input	26	Left	A63	A63
+tBodyAccJerkstdX	18	<none>	Nominal	Input	26	Left	A60	A60
+tBodyAccJerkstdY	19	<none>	Nominal	Input	26	Left	A57	A57
+tBodyAccJerkstdZ	20	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyromeanX	21	<none>	Nominal	Input	26	Left	A60	A60
+tBodyGyromeanY	22	<none>	Nominal	Input	26	Left	A60	A60
+tBodyGyromeanZ	23	<none>	Nominal	Input	26	Left	A63	A63
+tBodyGyrostdX	24	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyrostdY	25	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyrostdZ	26	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkmeanX	27	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkmeanY	28	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkmeanZ	29	<none>	Nominal	Input	26	Left	A60	A60
+tBodyGyroJerkstdX	30	<none>	Nominal	Input	26	Left	A54	A54
+tBodyGyroJerkstdY	31	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkstdZ	32	<none>	Nominal	Input	26	Left	A57	A57
+tBodyAccMagmean	33	<none>	Nominal	Input	26	Left	A63	A63
+tBodyAccMagstd	34	<none>	Nominal	Input	26	Left	A57	A57
+tGravityAccMagmean	35	<none>	Nominal	Input	26	Left	A63	A63
+tGravityAccMagstd	36	<none>	Nominal	Input	26	Left	A57	A57
+tBodyAccJerkMagmean	37	<none>	Nominal	Input	26	Left	A57	A57
+tBodyAccJerkMagstd	38	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroMagmean	39	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroMagstd	40	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkMagmean	41	<none>	Nominal	Input	26	Left	A57	A57
+tBodyGyroJerkMagstd	42	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccmeanX	43	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccmeanY	44	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccmeanZ	45	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccstdX	46	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccstdY	47	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccstdZ	48	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccJerkmeanX	49	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccJerkmeanY	50	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccJerkmeanZ	51	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccJerkstdX	52	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccJerkstdY	53	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccJerkstdZ	54	<none>	Nominal	Input	26	Left	A60	A60
+fBodyGyromeanX	55	<none>	Nominal	Input	26	Left	A57	A57
+fBodyGyromeanY	56	<none>	Nominal	Input	26	Left	A57	A57
+fBodyGyromeanZ	57	<none>	Nominal	Input	26	Left	A57	A57
+fBodyGyrostdX	58	<none>	Scale	Input	20	Right	F18.15	F18.15
+fBodyGyrostdY	59	<none>	Nominal	Input	26	Left	A57	A57
+fBodyGyrostdZ	60	<none>	Nominal	Input	26	Left	A57	A57
+fBodyAccMagmean	61	<none>	Nominal	Input	26	Left	A60	A60
+fBodyAccMagstd	62	<none>	Nominal	Input	26	Left	A60	A60
+fBodyBodyAccJerkMagmean	63	<none>	Nominal	Input	26	Left	A60	A60
+fBodyBodyAccJerkMagstd	64	<none>	Nominal	Input	26	Left	A57	A57
+fBodyBodyGyroMagmean	65	<none>	Nominal	Input	26	Left	A60	A60
+fBodyBodyGyroMagstd	66	<none>	Nominal	Input	26	Left	A54	A54
+fBodyBodyGyroJerkMagmean	67	<none>	Nominal	Input	26	Left	A57	A57
+fBodyBodyGyroJerkMagstd	68	<none>	Nominal	Input	26	Left	A57	A57
+
+
+
+
